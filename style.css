@@ -6,7 +6,8 @@ body {
 }
 
 canvas {
-    position: absolute;
-    left: 20vw;
-    top: 5vh;
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
 }
