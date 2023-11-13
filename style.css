@@ -1,0 +1,12 @@
+/* Place your CSS styles in this file */
+
+body {
+    background-color: black;
+    overflow: hidden;
+}
+
+canvas {
+    position: absolute;
+    left: 20vw;
+    top: 5vh;
+}
