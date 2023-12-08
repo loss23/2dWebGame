@@ -48,9 +48,9 @@ function DrawMap() {
     var y = 0;
     var CurColor = "#77eb34";
 
-    for (let _i = 0; _i < MapRules.h / 55; _i++) {
+    for (let _i = 0; _i < MapRules.h / 50; _i++) {
         FillRow(x, y, CurColor);
-        y += MapRules.h / 55;
+        y += MapRules.h / 50;
 
         if (CurColor == "#77eb34") {
             CurColor = "#6bd92b"
